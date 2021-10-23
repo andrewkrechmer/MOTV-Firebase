@@ -1,3 +1,3 @@
-This is my first commit
+# MOTV-Firebase
 
-Added more
+Cloud based event planner
